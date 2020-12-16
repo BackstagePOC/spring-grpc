@@ -1,0 +1,8 @@
+site_name: "grpc-spring"
+site_description: "gRPC Spring boot test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
